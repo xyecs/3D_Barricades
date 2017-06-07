@@ -106,10 +106,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 713, y: 495}
-  m_MaxSize: {x: 18008, y: 14045}
+  m_MinSize: {x: 715, y: 495}
+  m_MaxSize: {x: 18010, y: 14045}
   vertical: 0
-  controlID: 3958
+  controlID: 3873
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 3959
+  controlID: 3874
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -207,10 +207,10 @@ MonoBehaviour:
     y: 0
     width: 538
     height: 731
-  m_MinSize: {x: 511, y: 495}
-  m_MaxSize: {x: 14006, y: 14045}
+  m_MinSize: {x: 513, y: 495}
+  m_MaxSize: {x: 14008, y: 14045}
   vertical: 0
-  controlID: 3818
+  controlID: 3747
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -234,7 +234,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 495}
   m_MaxSize: {x: 10004, y: 14045}
   vertical: 1
-  controlID: 4026
+  controlID: 3748
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -414,14 +414,14 @@ MonoBehaviour:
     width: 996
     height: 408
   m_SceneLighting: 1
-  lastFramingTime: 361.8669216800884
+  lastFramingTime: 147.65991473235434
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 248.17352, y: 24.108826, z: 228.12538}
+    m_Target: {x: 204.96841, y: 29.569801, z: 253.96873}
     speed: 2
-    m_Value: {x: 248.17352, y: 24.108826, z: 228.12538}
+    m_Value: {x: 204.96841, y: 29.569801, z: 253.96873}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -444,13 +444,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.33228615, y: 0.55305284, z: -0.25519055, w: -0.7201362}
+    m_Target: {x: -0.19128302, y: 0.49453223, z: -0.11256772, w: -0.8403436}
     speed: 2
-    m_Value: {x: -0.33228612, y: 0.55305284, z: -0.25519055, w: -0.72013617}
+    m_Value: {x: -0.19128302, y: 0.49453223, z: -0.11256773, w: -0.8403436}
   m_Size:
-    m_Target: 369.78732
+    m_Target: 102.36828
     speed: 2
-    m_Value: 369.78732
+    m_Value: 102.36828
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -569,9 +569,9 @@ MonoBehaviour:
     height: 294
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ac270000
-    m_LastClickedID: 10156
-    m_ExpandedIDs: e4fbffff0000000094270000
+    m_SelectedIDs: 9a270000
+    m_LastClickedID: 10138
+    m_ExpandedIDs: e4fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -631,19 +631,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Terrain
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Terrain
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\Jason\Desktop\3D_Barricades\Zombies
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0a250000
-    m_LastClickedID: 9482
-    m_ExpandedIDs: 000000000a250000d8250000fe2600001428000000ca9a3bffffff7f
+    m_SelectedIDs: 8e260000
+    m_LastClickedID: 9870
+    m_ExpandedIDs: 000000000a250000da25000002270000f827000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -671,7 +671,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000a250000d8250000fe2600001428000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000000a250000da2500008e26000002270000f827000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
