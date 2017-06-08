@@ -20,10 +20,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 715, y: 495}
-  m_MaxSize: {x: 18010, y: 14045}
+  m_MinSize: {x: 709, y: 471}
+  m_MaxSize: {x: 18004, y: 14021}
   vertical: 0
-  controlID: 4428
+  controlID: 1241
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -123,7 +123,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 421}
   m_MaxSize: {x: 4002, y: 8021}
   vertical: 1
-  controlID: 4429
+  controlID: 1219
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,8 +142,8 @@ MonoBehaviour:
     y: 0
     width: 998
     height: 429
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 5}
   m_Panes:
   - {fileID: 5}
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.032474827, y: 0.96751374, z: -0.17487055, w: 0.17967439}
     speed: 2
-    m_Value: {x: 0.032474827, y: 0.96751374, z: -0.17487055, w: 0.17967439}
+    m_Value: {x: 0.032474823, y: 0.96751374, z: -0.17487055, w: 0.17967439}
   m_Size:
     m_Target: 22
     speed: 2
@@ -268,8 +268,8 @@ MonoBehaviour:
     y: 429
     width: 998
     height: 302
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -351,10 +351,10 @@ MonoBehaviour:
     y: 0
     width: 538
     height: 731
-  m_MinSize: {x: 513, y: 495}
-  m_MaxSize: {x: 14008, y: 14045}
+  m_MinSize: {x: 507, y: 471}
+  m_MaxSize: {x: 14002, y: 14021}
   vertical: 0
-  controlID: 4340
+  controlID: 1242
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -375,10 +375,10 @@ MonoBehaviour:
     y: 0
     width: 259
     height: 731
-  m_MinSize: {x: 234, y: 495}
-  m_MaxSize: {x: 10004, y: 14045}
+  m_MinSize: {x: 230, y: 471}
+  m_MaxSize: {x: 10000, y: 14021}
   vertical: 1
-  controlID: 4316
+  controlID: 1243
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -397,8 +397,8 @@ MonoBehaviour:
     y: 0
     width: 259
     height: 315
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -432,9 +432,9 @@ MonoBehaviour:
     height: 294
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 22280000
-    m_LastClickedID: 10274
-    m_ExpandedIDs: 02fbffffe4fbffff00000000
+    m_SelectedIDs: 28280000
+    m_LastClickedID: 10280
+    m_ExpandedIDs: e4fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -475,8 +475,8 @@ MonoBehaviour:
     y: 315
     width: 259
     height: 416
-  m_MinSize: {x: 234, y: 271}
-  m_MaxSize: {x: 10004, y: 10021}
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -519,19 +519,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets/Zombie/Model
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Zombie/Model
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\Jason\Desktop\3D_Barricades\Zombies
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a6270000
-    m_LastClickedID: 10150
-    m_ExpandedIDs: 000000000a2500004a2600002e2700006c270000802700003829000000ca9a3bffffff7f
+    m_SelectedIDs: 34270000
+    m_LastClickedID: 10036
+    m_ExpandedIDs: 0000000010250000502600003427000072270000862700004629000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -559,7 +559,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000a2500004a2600002e2700006c270000802700003829000000ca9a3bffffff7f
+    m_ExpandedIDs: 0000000010250000502600003427000072270000862700004629000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -584,24 +584,24 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 22280000
-    m_LastClickedInstanceID: 10274
-    m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: 74220000442400006627000036240000342400008a240000ee4effff982400009a240000b6240000a4240000ce2400009663ffff861cffff1af6ffff9a2cfdff9a2c000000000000
+    m_SelectedInstanceIDs: 28280000
+    m_LastClickedInstanceID: 10280
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: 74220000442400006627000036240000342400008a240000ee4effff982400009a240000b6240000a4240000ce2400009663ffff861cffff1af6ffff9a2cfdff9a2c0000000000003e26000018260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: ZombieMechanics
-      m_OriginalName: ZombieMechanics
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 15666
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 14}
     m_CreateAssetUtility:
@@ -632,8 +632,8 @@ MonoBehaviour:
     y: 0
     width: 279
     height: 731
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -666,7 +666,7 @@ MonoBehaviour:
     y: 92
     width: 277
     height: 710
-  m_ScrollPosition: {x: 0, y: 94.95508}
+  m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: -204
