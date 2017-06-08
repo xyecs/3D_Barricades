@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 715, y: 495}
   m_MaxSize: {x: 18010, y: 14045}
   vertical: 0
-  controlID: 3873
+  controlID: 4763
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -130,10 +130,10 @@ MonoBehaviour:
     y: 0
     width: 998
     height: 731
-  m_MinSize: {x: 202, y: 442}
-  m_MaxSize: {x: 4002, y: 8042}
+  m_MinSize: {x: 202, y: 421}
+  m_MaxSize: {x: 4002, y: 8021}
   vertical: 1
-  controlID: 3874
+  controlID: 4764
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -186,7 +186,7 @@ MonoBehaviour:
   - {fileID: 17}
   - {fileID: 18}
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 2
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -210,7 +210,7 @@ MonoBehaviour:
   m_MinSize: {x: 513, y: 495}
   m_MaxSize: {x: 14008, y: 14045}
   vertical: 0
-  controlID: 3747
+  controlID: 4739
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -234,7 +234,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 495}
   m_MaxSize: {x: 10004, y: 14045}
   vertical: 1
-  controlID: 3748
+  controlID: 4740
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -414,14 +414,14 @@ MonoBehaviour:
     width: 996
     height: 408
   m_SceneLighting: 1
-  lastFramingTime: 147.65991473235434
+  lastFramingTime: 497.44153244907625
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 204.96841, y: 29.569801, z: 253.96873}
+    m_Target: {x: 197.10559, y: -2.0408387, z: 169.16846}
     speed: 2
-    m_Value: {x: 204.96841, y: 29.569801, z: 253.96873}
+    m_Value: {x: 197.10559, y: -2.0408387, z: 169.16846}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -444,13 +444,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.19128302, y: 0.49453223, z: -0.11256772, w: -0.8403436}
+    m_Target: {x: 0.032474827, y: 0.96751374, z: -0.17487055, w: 0.17967439}
     speed: 2
-    m_Value: {x: -0.19128302, y: 0.49453223, z: -0.11256773, w: -0.8403436}
+    m_Value: {x: 0.032474823, y: 0.96751374, z: -0.17487055, w: 0.17967439}
   m_Size:
-    m_Target: 102.36828
+    m_Target: 22
     speed: 2
-    m_Value: 102.36828
+    m_Value: 22
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -485,8 +485,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 92
-    width: 868
-    height: 489
+    width: 996
+    height: 408
 --- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -569,9 +569,9 @@ MonoBehaviour:
     height: 294
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 9a270000
-    m_LastClickedID: 10138
-    m_ExpandedIDs: e4fbffff00000000
+    m_SelectedIDs: 02fbffff
+    m_LastClickedID: -1278
+    m_ExpandedIDs: 02fbffffe4fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -631,19 +631,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Terrain
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Terrain
+  - Assets/Scripts
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\Jason\Desktop\3D_Barricades\Zombies
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 8e260000
-    m_LastClickedID: 9870
-    m_ExpandedIDs: 000000000a250000da25000002270000f827000000ca9a3bffffff7f
+    m_SelectedIDs: a6270000
+    m_LastClickedID: 10150
+    m_ExpandedIDs: 000000000a2500004a2600002e2700006c270000802700003829000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -671,7 +671,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000a250000da2500008e26000002270000f827000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000000a2500004a2600002e2700006c270000802700003829000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -752,7 +752,7 @@ MonoBehaviour:
     y: 92
     width: 277
     height: 710
-  m_ScrollPosition: {x: 0, y: 0}
+  m_ScrollPosition: {x: 0, y: 507.95508}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: -204
